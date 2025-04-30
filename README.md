@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Making Android apps<br><br>🌱 I’m currently learning Python 3, Java<br><br>🤝 I’m looking for help with HTML Editor<br><br>👨‍💻 All of my projects are available at https://github.com/PrakharDoneria<br><br>📝 I regularly write articles on https://protecgames.godaddysites.com/read-blog<br><br>💬 Ask me about HTML, CSS, Scratch 3.0<br><br>📫 How to reach me prakhardoneria3@gmail.com<br><br>⚡ Fun fact I love programming more then Study 😅
+🔭 I’m currently working on Making Android apps<br><br>🌱 I’m currently learning C/C++<br><br>🤝 I’m looking for help with ChiX - C Editor<br><br>👨‍💻 All of my projects are available at https://github.com/PrakharDoneria<br><br>📝 I sometimes write articles on https://prakhardoneria.tech<br><br>💬 Ask me about programming and coding<br><br>📫 How to reach me prakhardoneria3@gmail.com<br><br>⚡ Fun fact I love programming more than Study 😅
 
 
 ## 🌐 Socials:
